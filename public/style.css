@@ -1,0 +1,39 @@
+body{
+  padding-top:80px;
+  word-wrap:break-word;
+  background-image: url(bg.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+  font-family: 'Courgette', cursive;
+}
+
+h1 , h3{
+  font-family: 'Courgette', cursive;
+}
+
+h3{
+  font-size: 25px;
+}
+
+li{
+  font-family: 'Noto Sans JP', sans-serif;
+  list-style: none;
+  font-size: 20px;
+}
+
+img{
+  height: 200px;
+}
+
+.jumbotron{
+  background-color: #d9b38c;
+}
+
+.orders.done {
+background-color: #bada55;
+}
+
+.red{
+color: red;
+}
